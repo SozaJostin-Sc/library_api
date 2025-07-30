@@ -40,6 +40,8 @@ spring.datasource.password=your_password
 
 Make sure PostgreSQL is running and that a database named `library` exists.
 
+```
+
 ### 3. Run the application
 
 ```bash
